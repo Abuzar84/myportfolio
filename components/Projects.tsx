@@ -9,7 +9,7 @@ export default function Projects() {
                             Selected projects that showcase my passion for clean code and user experience.
                         </p>
                     </div>
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-sm font-medium hover:underline underline-offset-4">
+                    <a href="https://github.com/Abuzar84" target="_blank" rel="noopener noreferrer" className="text-sm font-medium hover:underline underline-offset-4">
                         View all on GitHub &rarr;
                     </a>
                 </div>

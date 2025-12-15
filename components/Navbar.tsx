@@ -19,7 +19,7 @@ export default function Navbar() {
                 </Link>
                 <div className="w-px h-4 bg-gray-300 dark:bg-gray-700 mx-2"></div>
                 <a
-                    href="https://github.com"
+                    href="https://github.com/Abuzar84"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-900 dark:text-white hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
